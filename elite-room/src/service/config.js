@@ -1,1 +1,1 @@
-export const SOCKET_URL = "https://elite-server.herokuapp.com";
+export const SOCKET_URL = "https://elite-server-ji7a.onrender.com";
